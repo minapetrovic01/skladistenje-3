@@ -65,8 +65,10 @@ def convert_folder_of_csvs_to_arffs(folder_path, output_folder, class_attribute)
             convert_csv_to_arff(csv_file_path, arff_file_path, relation_name, class_attribute)
             print(f"Converted {file_name} to {relation_name}.arff")
 
-input_folder = '..\\data'  
-output_folder = '..\\data\\arffs3' 
+# input_folder = '..\\data\\arffs3'  
+# output_folder = '..\\data\\arffs3' 
+input_folder = 'C:\\Users\\minap\\ELFAK\\skladistenje\\projekat3\\data\\arffs3'
+output_folder = 'C:\\Users\\minap\\ELFAK\\skladistenje\\projekat3\\data\\arffs3'
 class_attribute = 'classification'  
 
 convert_folder_of_csvs_to_arffs(input_folder, output_folder, class_attribute)
