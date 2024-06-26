@@ -1,0 +1,13 @@
+CICIDS2017 dataset je skup podataka koji se često koristi u istraživanjima u oblasti računarske sigurnosti. Ovaj dataset je specifično dizajniran za detekciju i analizu napada u mrežnim komunikacijama. Sadrži podatke koji su generisani simulacijom mrežnog saobraćaja u kontrolisanim uslovima, što omogućava istraživačima da proučavaju različite vrste napada i razvijaju algoritme za njihovo otkrivanje.
+
+CICIDS2017 dataset je sastavljen od različitih tipova napada, uključujući napade kao što su DDoS (Distributed Denial of Service), Brute Force, Port Scan, kao i normalan mrežni saobraćaj. Podaci uključuju različite karakteristike ili atribute koji opisuju svaki mrežni paket ili sesiju, kao što su vremenski raspored, veličina paketa, tipovi protokola i slično.
+
+Ovaj dataset je važan za istraživanje i razvoj algoritama za detekciju napada u stvarnom vremenu, što je ključno za očuvanje sigurnosti u mrežama. Analizom ovih podataka istraživači mogu unaprediti razumevanje različitih vrsta mrežnih napada i razviti efikasne metode za njihovo prepoznavanje i zaštitu mrežnih sistema.
+
+Ukratko, CICIDS2017 dataset predstavlja važan resurs u oblasti računarske sigurnosti koji omogućava dublje razumevanje i bolju zaštitu od različitih mrežnih napada kroz analizu simuliranih mrežnih podataka.
+
+
+
+
+
+
